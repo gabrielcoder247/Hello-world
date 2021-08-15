@@ -2,7 +2,7 @@
 
 # HELLO WORLD WEBSITE
 
-`This project was the first one in my Microverse journey that needed a code review. I had to set up a "Hello world" repository. The goal was to combine all the tools and best practices I just learned into a repo: Github Workflows, Linters, Documenting my repo professionally With a perfect README.`
+`This project was the first one in my Microverse journey. I had to set up a "Hello world" repository. The goal was to combine all the tools and best practices I just learned into a repo: Github Workflows, Linters, Documenting my repo professionally With a perfect README.`
 
 ![screenshot](images/screen-16.png)
 
@@ -36,11 +36,6 @@ Contributions, issues, and feature requests are welcome!
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
