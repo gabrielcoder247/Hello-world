@@ -21,11 +21,11 @@ Additional description about the project and its features.
 1. Go my git repository (https://github.com/gabrielcoder247/hello-world)
 2. click on download zip folder
 3. open the folder on your local machine via code editor
-4. if you want to run the project open it via the browser
+4. if you want to run the project, open it via the browser
 
-To set up locally on your machine `Git pull` then open the file on your browser.
 
-👤 **Author1**
+
+👤 **Author**
 
 - GitHub: [@githubhandle](https://github.com/gabrielcoder247)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/gabriel-nwachukwu-209613173/)
